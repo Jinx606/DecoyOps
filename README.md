@@ -98,13 +98,16 @@ We would like to express our gratitude to the above contributors and resources f
 ## Screenshots
 
 ![Screenshot 1](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.10.02.png)
-Front page showing that a video was added along with a header for navigation
+The front page shows that a video was added along with a header for navigation
 
 ![Screenshot 2](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.10.36.png)
 When navigating to the work page in the nav bar, you see a container with images
 
-![Screenshot 3](/screenshots/screenshot3.png)
-*Caption for Screenshot 3.*
+![Screenshot 3](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.10.54.png)
+When scrolling down on the work page, you will notice the footer with links to an online presence as well as the images from the previous screenshot actually have links that take you to new work pages
+
+![Screenshot 2](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.10.36.png)
+When navigating to the work page in the nav bar, you see a container with images
 
 These screenshots provide a glimpse of the DecoyOps Motion Designer Portfolio Website.
 
