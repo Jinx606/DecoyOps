@@ -64,7 +64,7 @@ For specific code areas or files, maintainers or contributors may have ownership
 
 ## Licensing
 
-By contributing to this project, you agree that your contributions will be subject to the project's existing open-source license. See the [LICENSE](LICENSE) file for details.
+By contributing to this project, you agree that your contributions will be subject to the project's existing open-source license. See the [LICENSE](https://github.com/Jinx606/DecoyOps/blob/main/Code-of-Conduct.md) file for details.
 
 ## Acknowledgments
 
