@@ -34,12 +34,8 @@ Whether you are a potential collaborator, a prospective client, or simply someon
 1. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
-2. [Usage](#usage)
-   - [Exploring the Portfolio](#exploring-the-portfolio)
-   - [Contacting DecoyOps](#contacting-decoyops)
-   - [Reading the Blog](#reading-the-blog)
-3. [Contributing](#contributing)
-4. [License](#license)
+2. [Contributing](#contributing)
+3. [License](#license)
 
 ## Getting Started
 
@@ -54,14 +50,14 @@ Before you begin, make sure you have the following prerequisites installed on yo
 ### Installation
 
 Clone this repository to your local machine using your preferred method or the following command:
-git clone https://github.com/Jinx606/DecoyOps.git
+- git clone https://github.com/Jinx606/DecoyOps.git
 
 Navigate to the project directory:
-cd DecoyOps
+- cd DecoyOps
 
 Running the Website Locally
 Open the project directory in your code editor, such as Visual Studio Code:
-code .
+- code .
 
 Inside the project directory, you'll find your HTML, CSS, and potentially Bootstrap files. Open the main HTML file (e.g., index.html) in your code editor.
 
@@ -69,17 +65,20 @@ To view the website locally, right-click on the HTML file and select "Open with 
 
 Your default web browser will open, displaying the DecoyOps Motion Designer Portfolio Website. You can interact with and explore the website as if it were live on the internet.
 
-Making Changes
-Make any desired changes to the HTML and CSS files in your code editor.
+### Making Changes
 
-Save your changes.
+- Make any desired changes to the HTML and CSS files in your code editor.
 
-If you have a local development server or Live Server running, your changes should automatically update in the web browser. If not, simply refresh the web page to see the updated content.
+- Save your changes.
 
-Now you can work on and run your DecoyOps portfolio website locally using HTML, Bootstrap, and CSS. Feel free to customize and enhance it as needed.
+- If you have a local development server or Live Server running, your changes should automatically update in the web browser. If not, simply refresh the web page to see the updated content.
 
-Contributing
+- Now you can work on and run your DecoyOps portfolio website locally using HTML, Bootstrap, and CSS. Feel free to customize and enhance it as needed.
+
+### Contributing
+
 If you'd like to contribute to this project, please follow our Contribution Guidelines.
 
-License
+### License
+
 The content of this project is licensed to DecoyOpsMotion.
