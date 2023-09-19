@@ -97,8 +97,8 @@ We would like to express our gratitude to the above contributors and resources f
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-*Caption for Screenshot 1.*
+![Screenshot 1](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.10.02.png)
+Front page showing that a video was added along with a header for navigation
 
 ![Screenshot 2](/screenshots/screenshot2.png)
 *Caption for Screenshot 2.*
