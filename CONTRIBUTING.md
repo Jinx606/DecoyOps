@@ -21,7 +21,7 @@ Please take a moment to review this document for guidelines on how to contribute
 
 ## Code of Conduct
 
-Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to adhere to these principles to create a welcoming and inclusive environment.
+Please read and follow our [Code of Conduct]([CODE_OF_CONDUCT.md](https://github.com/Jinx606/DecoyOps/blob/main/Code%20of%20Conduct)). We expect all contributors to adhere to these principles to create a welcoming and inclusive environment.
 
 ## Reporting Issues
 
@@ -72,7 +72,7 @@ We value and appreciate all contributions, big or small. Thank you for helping i
 
 ## Community Guidelines
 
-We encourage a respectful and inclusive community. Be considerate of others, and if you encounter disagreements, resolve them constructively. Follow our [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions.
+We encourage a respectful and inclusive community. Be considerate of others, and if you encounter disagreements, resolve them constructively. Follow our [Code of Conduct]([CODE_OF_CONDUCT.md](https://github.com/Jinx606/DecoyOps/blob/main/Code%20of%20Conduct)) in all interactions.
 
 ## Maintainer Contact
 
