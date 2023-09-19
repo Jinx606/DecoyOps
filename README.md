@@ -36,6 +36,8 @@ Whether you are a potential collaborator, a prospective client, or simply someon
    - [Installation](#installation)
 2. [Contributing](#contributing)
 3. [License](#license)
+4. [Credits](#credits)
+5. [Screenshots](#screenshots)
 
 ## Getting Started
 
@@ -82,3 +84,27 @@ If you'd like to contribute to this project, please follow our [Contribution Gui
 ### License
 
 The content of this project is licensed to DecoyOpsMotion.
+
+## Credits
+
+- DecoyOps Motion Designer: Ryno Eksteen (@DecoyOps)
+- Bootstrap Framework: [Bootstrap](https://getbootstrap.com/)
+- Icons: [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono)
+- Images: [DecoyOps](https://www.behance.net/decoy)
+- Inspiration and Design Ideas: [DecoyOps](https://www.behance.net/decoy)
+
+We would like to express our gratitude to the above contributors and resources for their valuable contributions to this project.
+
+## Screenshots
+
+![Screenshot 1](/screenshots/screenshot1.png)
+*Caption for Screenshot 1.*
+
+![Screenshot 2](/screenshots/screenshot2.png)
+*Caption for Screenshot 2.*
+
+![Screenshot 3](/screenshots/screenshot3.png)
+*Caption for Screenshot 3.*
+
+These screenshots provide a glimpse of the DecoyOps Motion Designer Portfolio Website.
+
