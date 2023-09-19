@@ -87,7 +87,7 @@ The content of this project is licensed to DecoyOpsMotion.
 
 ## Credits
 
-- DecoyOps Motion Designer: Ryno Eksteen (@DecoyOps)
+- DecoyOps Motion Designer: Ryno Eksteen (https://www.behance.net/decoy)
 - Bootstrap Framework: [Bootstrap](https://getbootstrap.com/)
 - Icons: [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono)
 - Images: [DecoyOps](https://www.behance.net/decoy)
