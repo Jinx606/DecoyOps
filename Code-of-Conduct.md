@@ -30,7 +30,7 @@ Take responsibility for your words and actions within the community. Be mindful 
 
 ## Reporting Violations
 
-If you witness or experience behavior that violates this Code of Conduct, please report it promptly to the project maintainers at [maintainer@example.com](mailto:maintainer@example.com). All reports will be treated with confidentiality and will be thoroughly reviewed. Maintainers are obligated to take appropriate actions in response to violations, which may include warnings, temporary or permanent bans, or other measures deemed necessary.
+If you witness or experience behavior that violates this Code of Conduct, please report it promptly to the project maintainers at [maintainer@example.com](mailto:decoy.jinx@gmail.com). All reports will be treated with confidentiality and will be thoroughly reviewed. Maintainers are obligated to take appropriate actions in response to violations, which may include warnings, temporary or permanent bans, or other measures deemed necessary.
 
 ## Enforcement
 
