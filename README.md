@@ -93,7 +93,7 @@ The content of this project is licensed to DecoyOpsMotion.
 - Images: [DecoyOps](https://www.behance.net/decoy)
 - Inspiration and Design Ideas: [DecoyOps](https://www.behance.net/decoy)
 
-We would like to express our gratitude to the above contributors and resources for their valuable contributions to this project.
+I would like to express our gratitude to the above contributors and resources for their valuable contributions to this project. I could not have done this without the amazing support.
 
 ## Screenshots
 
