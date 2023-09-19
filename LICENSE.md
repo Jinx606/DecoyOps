@@ -1,6 +1,6 @@
 DecoyOpsMotion License
 
-Copyright (c) [2020] [DecoyOpsMotion]
+Copyright (CC BY-NC-ND) [2020] [DecoyOpsMotion]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -13,6 +13,9 @@ furnished to do so, subject to the following conditions:
 
 1. The above copyright notice and this permission notice shall be included in
    all copies or substantial portions of the Software.
+
+2. Images and video footage shall remain private and not for sale or commercial use of any kind.
+   This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any    way or use them commercially
 
 ## Warranty
 
