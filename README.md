@@ -77,7 +77,7 @@ Your default web browser will open, displaying the DecoyOps Motion Designer Port
 
 ### Contributing
 
-If you'd like to contribute to this project, please follow our Contribution Guidelines.
+If you'd like to contribute to this project, please follow our [Contribution Guidelines](https://github.com/Jinx606/DecoyOps/blob/main/CONTRIBUTING.md).
 
 ### License
 
