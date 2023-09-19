@@ -107,10 +107,10 @@ When navigating to the work page in the nav bar, you see a container with images
 When scrolling down on the work page, you will notice the footer with links to an online presence as well as the images from the previous screenshot actually have links that take you to new work pages
 
 ![Screenshot 4](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.11.54.png)
-When clicking on one of the images and you link to a new page, you will note a small write up about the project as well as the navbar
+When clicking on one of the images and you link to a new page, you will note a small write-up about the project as well as the navbar
 
-![Screenshot 4](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.10.02.png)
-The front page shows that a video was added along with a header for navigation
+![Screenshot 5](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.11.38.png)
+This final screenshot shows that below the images you have the option of navigating to the next page or the previous page
 
 These screenshots provide a glimpse of the DecoyOps Motion Designer Portfolio Website.
 
