@@ -97,7 +97,7 @@ I would like to express my gratitude to the above contributors and resources for
 
 ## Screenshots
 
-![Screenshot 1](images/Screenshot 2023-09-19 at 14.10.02.png)
+![Screenshot 1](https://github.com/Jinx606/DecoyOps/blob/main/images/Screenshot%202023-09-19%20at%2014.10.02.png)
 The front page shows that a video was added along with a header for navigation
 
 ![Screenshot 2](images/Screenshot 2023-09-19 at 14.10.36.png)
