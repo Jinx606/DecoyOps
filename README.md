@@ -97,19 +97,19 @@ I would like to express my gratitude to the above contributors and resources for
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.10.02.png)
+![Screenshot 1](images/Screenshot 2023-09-19 at 14.10.02.png)
 The front page shows that a video was added along with a header for navigation
 
-![Screenshot 2](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.10.36.png)
+![Screenshot 2](images/Screenshot 2023-09-19 at 14.10.36.png)
 When navigating to the work page in the nav bar, you see a container with images
 
-![Screenshot 3](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.10.54.png)
+![Screenshot 3](images/Screenshot 2023-09-19 at 14.10.54.png)
 When scrolling down on the work page, you will notice the footer with links to an online presence as well as the images from the previous screenshot actually have links that take you to new work pages
 
-![Screenshot 4](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.11.54.png)
+![Screenshot 4](images/Screenshot 2023-09-19 at 14.11.54.png)
 When clicking on one of the images and you link to a new page, you will note a small write-up about the project as well as the navbar
 
-![Screenshot 5](https://github.com/Jinx606/DecoyOps/blob/main/Screenshot%202023-09-19%20at%2014.11.38.png)
+![Screenshot 5](images/Screenshot 2023-09-19 at 14.11.38.png)
 This final screenshot shows that below the images you have the option of navigating to the next page or the previous page
 
 These screenshots provide a glimpse of the DecoyOps Motion Designer Portfolio Website.
