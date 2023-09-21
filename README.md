@@ -92,6 +92,7 @@ The content of this project is licensed to DecoyOpsMotion.
 - Icons: [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono)
 - Images: [DecoyOps](https://www.behance.net/decoy)
 - Inspiration and Design Ideas: [DecoyOps](https://www.behance.net/decoy)
+- Contact Form: [Un-Static](https://un-static.com/how-to/add-github-pages-contact-form/)
 
 I would like to express my gratitude to the above contributors and resources for their valuable contributions to this project. I could not have done this without the amazing support.
 
