@@ -103,7 +103,7 @@ The front page shows that a video was added along with a header for navigation
 ![Screenshot 2](https://github.com/Jinx606/DecoyOps/blob/main/images/Screenshot%202023-09-19%20at%2014.10.36.png)
 When navigating to the work page in the nav bar, you see a container with images
 
-![Screenshot 3](images/Screenshot 2023-09-19 at 14.10.54.png)
+![Screenshot 3](https://github.com/Jinx606/DecoyOps/blob/main/images/Screenshot%202023-09-19%20at%2014.10.54.png)
 When scrolling down on the work page, you will notice the footer with links to an online presence as well as the images from the previous screenshot actually have links that take you to new work pages
 
 ![Screenshot 4](images/Screenshot 2023-09-19 at 14.11.54.png)
