@@ -109,7 +109,7 @@ When scrolling down on the work page, you will notice the footer with links to a
 ![Screenshot 4](https://github.com/Jinx606/DecoyOps/blob/main/images/Screenshot%202023-09-19%20at%2014.11.54.png)
 When clicking on one of the images and you link to a new page, you will note a small write-up about the project as well as the navbar
 
-![Screenshot 5](images/Screenshot 2023-09-19 at 14.11.38.png)
+![Screenshot 5](https://github.com/Jinx606/DecoyOps/blob/main/images/Screenshot%202023-09-19%20at%2014.11.38.png)
 This final screenshot shows that below the images you have the option of navigating to the next page or the previous page
 
 These screenshots provide a glimpse of the DecoyOps Motion Designer Portfolio Website.
