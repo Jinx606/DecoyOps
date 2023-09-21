@@ -115,3 +115,5 @@ This final screenshot shows that below the images you have the option of navigat
 
 These screenshots provide a glimpse of the DecoyOps Motion Designer Portfolio Website.
 
+One final note to look at: [my_experience](https://github.com/Jinx606/DecoyOps/blob/main/My_experience.md)
+
